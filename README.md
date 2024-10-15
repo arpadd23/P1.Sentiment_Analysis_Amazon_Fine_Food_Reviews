@@ -49,12 +49,20 @@ You can find the dataset on [Kaggle](https://www.kaggle.com).
 - Analyzed correlations between sentiment scores and star ratings.
 - Created heatmaps and boxplots for better insights.
 
-## Results
-### Distribution of Ratings
+### Results
 
-### Compound Sentiment Scores by Rating
+#### Distribution of Ratings
+![Distribution of Ratings](https://github.com/yourusername/your-repo-name/blob/main/Distribution%20of%20Ratings.png?raw=true)
 
-### Correlation Heatmap
+#### Compound Sentiment Scores by Rating
+![Compound Sentiment Scores by Rating](https://github.com/yourusername/your-repo-name/blob/main/Compound%20Sentiment%20Scores%20by%20Rating.png?raw=true)
+
+#### Correlation Between Sentiment Scores and Ratings
+![Correlation Between Sentiment Scores and Ratings](https://github.com/yourusername/your-repo-name/blob/main/Correlation%20Between%20Sentiment%20Scores%20and%20Ratings.png?raw=true)
+
+#### Correlation Heatmap
+![Correlation Heatmap](https://github.com/yourusername/your-repo-name/blob/main/Correlation%20Heatmap.png?raw=true)
+
 
 **Key Findings:**
 - Positive correlation between compound sentiment scores and review ratings.
