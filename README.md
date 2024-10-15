@@ -52,16 +52,17 @@ You can find the dataset on [Kaggle](https://www.kaggle.com).
 ### Results
 
 #### Distribution of Ratings
-![Distribution of Ratings](https://github.com/yourusername/your-repo-name/blob/main/Distribution%20of%20Ratings.png?raw=true)
+![Distribution of Ratings](https://raw.githubusercontent.com/yourusername/your-repo-name/main/Distribution%20of%20Ratings.png)
 
 #### Compound Sentiment Scores by Rating
-![Compound Sentiment Scores by Rating](https://github.com/yourusername/your-repo-name/blob/main/Compound%20Sentiment%20Scores%20by%20Rating.png?raw=true)
+![Compound Sentiment Scores by Rating](https://raw.githubusercontent.com/yourusername/your-repo-name/main/Compound%20Sentiment%20Scores%20by%20Rating.png)
 
 #### Correlation Between Sentiment Scores and Ratings
-![Correlation Between Sentiment Scores and Ratings](https://github.com/yourusername/your-repo-name/blob/main/Correlation%20Between%20Sentiment%20Scores%20and%20Ratings.png?raw=true)
+![Correlation Between Sentiment Scores and Ratings](https://raw.githubusercontent.com/yourusername/your-repo-name/main/Correlation%20Between%20Sentiment%20Scores%20and%20Ratings.png)
 
 #### Correlation Heatmap
-![Correlation Heatmap](https://github.com/yourusername/your-repo-name/blob/main/Correlation%20Heatmap.png?raw=true)
+![Correlation Heatmap](https://raw.githubusercontent.com/yourusername/your-repo-name/main/Correlation%20Heatmap.png)
+
 
 
 **Key Findings:**
