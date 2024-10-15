@@ -52,17 +52,16 @@ You can find the dataset on [Kaggle](https://www.kaggle.com).
 ### Results
 
 #### Distribution of Ratings
-![Distribution of Ratings](https://raw.githubusercontent.com/yourusername/your-repo-name/main/Distribution%20of%20Ratings.png)
+![Distribution of Ratings](https://github.com/arpadd23/P1.Sentiment_Analysis_Amazon_Fine_Food_Reviews/blob/main/Distribution%20of%20Ratings.png?raw=true)
 
 #### Compound Sentiment Scores by Rating
-![Compound Sentiment Scores by Rating](https://raw.githubusercontent.com/yourusername/your-repo-name/main/Compound%20Sentiment%20Scores%20by%20Rating.png)
+![Compound Sentiment Scores by Rating](https://github.com/arpadd23/P1.Sentiment_Analysis_Amazon_Fine_Food_Reviews/blob/main/Compound%20Sentiment%20Scores%20by%20Rating.png?raw=true)
 
 #### Correlation Between Sentiment Scores and Ratings
-![Correlation Between Sentiment Scores and Ratings](https://raw.githubusercontent.com/yourusername/your-repo-name/main/Correlation%20Between%20Sentiment%20Scores%20and%20Ratings.png)
+![Correlation Between Sentiment Scores and Ratings](https://github.com/arpadd23/P1.Sentiment_Analysis_Amazon_Fine_Food_Reviews/blob/main/Correlation%20Between%20Sentiment%20Scores%20and%20Ratings.png?raw=true)
 
 #### Correlation Heatmap
-![Correlation Heatmap](https://raw.githubusercontent.com/yourusername/your-repo-name/main/Correlation%20Heatmap.png)
-
+![Correlation Heatmap](https://github.com/arpadd23/P1.Sentiment_Analysis_Amazon_Fine_Food_Reviews/blob/main/Correlation%20Heatmap.png?raw=true)
 
 
 **Key Findings:**
